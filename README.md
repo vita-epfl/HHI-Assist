@@ -50,7 +50,12 @@ To evaluate a model, use the following command:
 ```python3 main.py --mode test --data-dir PATH_TO_DATA  --output_dir PATH_TP_OUTPUT --batch 256 --two --h 2 --joints 21```
 
 
-
+<details>
+  <summary><b>View ICRA Poster</b></summary>
+<p align="center">
+  <img src="docs/poster_thumbnail.png" alt="HHI-Assist ICRA Poster" width="800">
+</p>
+</details>
 
 
 ## Acknowledgments
